@@ -51,48 +51,48 @@
       </div>
     </nav>
     <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="d-block w-100" src="temporanea.png" alt="First slide">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Prima</h5>
-                <p>Prima</p>
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="chemistry.jpg" alt="First slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Prima</h5>
+                  <p>Prima</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="chemistry.jpg" alt="Second slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Seconda</h5>
+                  <p>Seconda</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="chemistry.jpg" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Terza</h5>
+                  <p>Terza</p>
+                </div>
               </div>
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="temporanea.png" alt="Second slide">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Seconda</h5>
-                <p>Seconda</p>
-              </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="temporanea.png" alt="Third slide">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Terza</h5>
-                <p>Terza</p>
-              </div>
-            </div>
-          </div>
-          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
         </div>
-      </div>
-      <div class="col-sm-1"></div>
+      <div class="col-sm-3"></div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
