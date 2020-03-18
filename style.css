@@ -1,3 +1,7 @@
+.sfondo-logo{
+    background-color: rgb(248, 249, 250); 
+}
+
 .logo{
     max-width: 30%;
     height: auto;
@@ -16,4 +20,5 @@ ul.navbar-nav a:hover {
 }
 .carousel-inner img {
     margin: auto;
-  }
+}
+
