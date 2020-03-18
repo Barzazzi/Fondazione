@@ -3,6 +3,14 @@
     height: auto;
 }
 
+.titolo{
+    color: rgb(2, 177, 31) !important;
+}
+
 .sfondo{
    background-color: rgb(240, 239, 239); 
+}
+
+ul.navbar-nav a:hover { 
+    color: rgb(2, 177, 31) !important; 
 }
