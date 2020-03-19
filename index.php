@@ -26,20 +26,23 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active border-right">
+            <li class="nav-item active">
               <a class="nav-link mx-lg-2" href="index.php" >Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item active border-right">
+            <li class="nav-item">
               <a class="nav-link mx-lg-2" href="#" >Project</a>
             </li>
-            <li class="nav-item active border-right">
+            <li class="nav-item">
               <a class="nav-link mx-lg-2" href="#">Collaboration</a>
             </li>
-            <li class="nav-item active border-right">
+            <li class="nav-item">
               <a class="nav-link mx-lg-2" href="#">About Us</a>
             </li>
-            <li class="nav-item active border-right">
+            <li class="nav-item">
               <a class="nav-link mx-lg-2" href="#">Contacts</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link mx-lg-2" href="#">Collaboration</a>
             </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -50,8 +53,8 @@
       </nav>
     </header>
     <div class="row mx-0 px-0">
-      <div class="col-lg-2 col-sm-1"></div>
-      <div class="col-lg-8 col-sm-10 pt-2">
+      <div class="col-sm-2"></div>
+      <div class="col-sm-8 pt-2">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -90,18 +93,8 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7">
-            <h1 class="display-4">Article title</h1>
-            <p class="lead">The subtitle of the article.</p>
-            <a class="float-right link" href="#">Read more >></a>
-          </div>
-        </div>
       </div>
-      <div class="col-lg-2 col-sm-1"></div>
+      <div class="col-sm-2"></div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -110,4 +103,28 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script scr="script.js"></script>
   </body>
+  <footer class="border-top">
+    <div class="container">
+      <div class="raw">
+        <div class="col-6 col-md-3">
+          <div class="text-center">
+            <h5>Sponsor by</h5>
+            <img width="200" hight="200" src="sponsor.png">
+          </div>
+        </div>
+        <div class="col-6 col-md-3">
+          <div class="text-center">
+            <h5>Sponsor by</h5>
+            <img width="200" hight="200" src="sponsor.png">
+          </div>
+        </div>
+        <div class="col-6 col-md-3">
+          <div class="text-center">
+            <h5>Sponsor by</h5>
+            <img class="mb-10" width="200" hight="200" src="sponsor.png">
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
 </html>
