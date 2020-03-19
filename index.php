@@ -13,11 +13,11 @@
   <body class="sfondo">
     <header class="sfondo-logo">
       <div class="row mx-0 px-0">
-        <div class="col-4 text-center">
-          <img src="placeholder.png" class="logo ml-3">
+        <div class="col-3 text-center">
+          <img src="manovuota.jpg" class="logo ml-3">
         </div>
-        <div class="col-8">
-          <h2 class="titolo pt-3">Green Sciences for Sustenaible Development</h2>
+        <div class="col-9">
+          <h2 class="display-4 titolo pt-3">Green Sciences for Sustenaible Development</h2>
         </div>
       </div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
