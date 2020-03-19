@@ -56,3 +56,19 @@ a:hover {
     background: #dd4b39;
     color: white;
   }
+/*footer*/
+  .footer{
+     margin-top: 80px;
+     background-color:#b8b894;
+  }
+  .sponsor{
+      padding: 20px;
+      text-align: center;
+  }
+  .info{
+      margin-top: 40px;
+      background-color: #93936c;
+      text-align: center;
+      padding: 5px;
+      
+  }

@@ -113,25 +113,39 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script scr="script.js"></script>
   </body>
-  <footer class="border-top">
-    <div class="container">
-      <div class="raw">
-        <div class="col-4 col-md-4">
-          <div class="text-center">
-            <h5>Sponsor by</h5>
-            <img width="200" hight="200" src="sponsor.png">
+  <footer class="footer">
+    <div class="sposnor">
+      <div class="container">
+        <div class="row">
+          <div class="col-4 col-md-4">
+            <div class="text-center">
+              <h5>Sponsor by</h5>
+              <img width="200" hight="200" src="sponsor.png">
+            </div>
+          </div>
+          <div class="col-4 col-md-4">
+            <div class="text-center">
+              <h5>Sponsor by</h5>
+              <img width="200" hight="200" src="sponsor.png">
+            </div>
+          </div>
+          <div class="col-4 col-md-4">
+            <div class="text-center">
+              <h5>Sponsor by</h5>
+              <img class="mb-10" width="200" hight="200" src="sponsor.png">
+            </div>
           </div>
         </div>
-        <div class="col-4 col-md-4">
-          <div class="text-center">
-            <h5>Sponsor by</h5>
-            <img width="200" hight="200" src="sponsor.png">
+      </div>
+    </div>
+    <div class="info">
+      <div class="container">
+        <div class="row">
+          <div class="col-8">
+            <p>hdsjgsdkgjhdasdadgkdjgadgkdjgdjgdkhaghasdd</p>
           </div>
-        </div>
-        <div class="col-4 col-md-4">
-          <div class="text-center">
-            <h5>Sponsor by</h5>
-            <img class="mb-10" width="200" hight="200" src="sponsor.png">
+          <div class="col-4">
+          <a class="legal" href="https://it.wikipedia.org/wiki/Legale">Note Legali</a>
           </div>
         </div>
       </div>
