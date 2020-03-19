@@ -8,7 +8,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Article</title>
+    <link rel="stylesheet" href="bootstrap-social.css">
+    <title>Call for IUPAC Postgraduate Summer School on Green Chemistry</title>
   </head>
   <body class="sfondo">
     <header class="sfondo-logo">
@@ -52,7 +53,7 @@
     <div class="row mx-0 px-0">
       <div class="col-lg-2 col-sm-1"></div>
       <div class="col-lg-8 col-sm-10 pt-2">
-        <div class="blog-post">
+        <div class="blog-post text-justify">
             <h2 class="blog-post-title">Call for IUPAC Postgraduate Summer School on Green Chemistry</h2>
             <p class="blog-post-meta">Posted on 7-14 July 2018 by <a href="#" class="link">Tundo</a>, Venice Italy</p>
             <img src="articolo1.png" class="img-fluid img-thumbnail" alt="Responsive image">
