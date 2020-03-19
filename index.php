@@ -102,6 +102,7 @@
             <p class="lead">The subtitle of the article.</p>
             <a class="float-right link" href="#">Read more >></a>
           </div>
+        </div>
       </div>
       <div class="col-sm-2"></div>
     </div>
@@ -115,19 +116,19 @@
   <footer class="border-top">
     <div class="container">
       <div class="raw">
-        <div class="col-6 col-md-3">
+        <div class="col-4 col-md-4">
           <div class="text-center">
             <h5>Sponsor by</h5>
             <img width="200" hight="200" src="sponsor.png">
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-4 col-md-4">
           <div class="text-center">
             <h5>Sponsor by</h5>
             <img width="200" hight="200" src="sponsor.png">
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-4 col-md-4">
           <div class="text-center">
             <h5>Sponsor by</h5>
             <img class="mb-10" width="200" hight="200" src="sponsor.png">
