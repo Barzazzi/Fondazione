@@ -22,3 +22,15 @@ ul.navbar-nav a:hover {
     margin: auto;
 }
 
+.articolo{
+    background-color: rgb(230, 228, 228); 
+}
+
+a:hover { 
+    color: rgb(2, 177, 31) !important; 
+}
+
+.link{
+    text-decoration: underline;
+    color:black !important;
+}

@@ -26,23 +26,20 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
+            <li class="nav-item active border-right">
               <a class="nav-link mx-lg-2" href="index.php" >Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item active border-right">
               <a class="nav-link mx-lg-2" href="#" >Project</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item active border-right">
               <a class="nav-link mx-lg-2" href="#">Collaboration</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item active border-right">
               <a class="nav-link mx-lg-2" href="#">About Us</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item active border-right">
               <a class="nav-link mx-lg-2" href="#">Contacts</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link mx-lg-2" href="#">Collaboration</a>
             </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -53,8 +50,8 @@
       </nav>
     </header>
     <div class="row mx-0 px-0">
-      <div class="col-sm-2"></div>
-      <div class="col-sm-8 pt-2">
+      <div class="col-lg-2 col-sm-1"></div>
+      <div class="col-lg-8 col-sm-10 pt-2">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -93,8 +90,18 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
+        <div class="row mt-3 mx-0 articolo">
+          <div clas="col-xs-12 col-sm-5">
+            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
+          </div>
+          <div class="col-xs-12 col-sm-7">
+            <h1 class="display-4">Article title</h1>
+            <p class="lead">The subtitle of the article.</p>
+            <a class="float-right link" href="#">Read more >></a>
+          </div>
+        </div>
       </div>
-      <div class="col-sm-2"></div>
+      <div class="col-lg-2 col-sm-1"></div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
