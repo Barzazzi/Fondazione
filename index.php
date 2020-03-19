@@ -61,7 +61,7 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img class="d-block" src="articolo1.png" alt="First slide" width="1132 px" height="540 px" >
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-none d-md-block sfondo-carosello">
                 <h5>Call for IUPAC Postgraduate Summer School on Green Chemistry</h5>
                 <p>This Summer School will ideally follow the 10 previous editions held in Venice from 1998 to 2008, but this will be the first one under the International Union of Pure and Applied Chemistry IUPAC sponsorship.</p>
                 <a class="text-white" href="article.php">Read more >></a>
@@ -69,7 +69,7 @@
             </div>
             <div class="carousel-item">
               <img class="d-block" src="chemistry.jpg" alt="Second slide" width="1132 px" height="540 px">
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-none d-md-block sfondo-carosello">
                 <h5>Title 2</h5>
                 <p>Subtitle 2</p>
                 <a class="text-white" href="#">Read more >></a>
@@ -77,7 +77,7 @@
             </div>
             <div class="carousel-item">
               <img class="d-block" src="chemistry.jpg" alt="Third slide" width="1132 px" height="540 px">
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-none d-md-block sfondo-carosello">
                 <h5>Title 3</h5>
                 <p>Subtitle 3</p>
                 <a class="text-white" href="#">Read more >></a>
