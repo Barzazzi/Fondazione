@@ -64,7 +64,7 @@
               <div class="carousel-caption d-none d-md-block">
                 <h5>Call for IUPAC Postgraduate Summer School on Green Chemistry</h5>
                 <p>This Summer School will ideally follow the 10 previous editions held in Venice from 1998 to 2008, but this will be the first one under the International Union of Pure and Applied Chemistry IUPAC sponsorship.</p>
-                <a class="text-white" href="articolo1.php">Read more >></a>
+                <a class="text-white" href="article.php">Read more >></a>
               </div>
             </div>
             <div class="carousel-item">
@@ -72,7 +72,7 @@
               <div class="carousel-caption d-none d-md-block">
                 <h5>Title 2</h5>
                 <p>Subtitle 2</p>
-                <a class="text-white" href="articolo1.php">Read more >></a>
+                <a class="text-white" href="#">Read more >></a>
               </div>
             </div>
             <div class="carousel-item">
@@ -80,17 +80,21 @@
               <div class="carousel-caption d-none d-md-block">
                 <h5>Title 3</h5>
                 <p>Subtitle 3</p>
-                <a class="text-white" href="articolo1.php">Read more >></a>
+                <a class="text-white" href="#">Read more >></a>
               </div>
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
+            <div class="sfondo-carosello rounded-circle pt-1 px-1">  
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </div>
           </a>
           <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
+            <div class="sfondo-carosello rounded-circle pt-1 px-1">  
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </div>
           </a>
         </div>
         <div class="row mt-3 mx-0 articolo">
