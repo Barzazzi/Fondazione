@@ -45,6 +45,15 @@ a.link:hover{
     color: rgb(2, 177, 31) !important; 
 }
 
+/* pagination */
+.page-link{
+    color: rgb(2, 177, 31) !important; 
+}
+
+.page-link.active{
+    background-color: rgb(2, 177, 31) !important; 
+    color:white !important;
+}
 /*Share button*/
 .fa {
     padding: 20px;
