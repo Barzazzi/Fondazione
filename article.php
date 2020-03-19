@@ -81,9 +81,6 @@
                 <li>Exploitation of renewable resources</li>
                 <li>Green Chemistry for cultural heritage restoration</li>
             </ul>
-            <a class="btn btn-social-icon btn-twitter">
-                <span class="fa fa-twitter"></span>
-            </a>
         </div>
         
         
