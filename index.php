@@ -93,6 +93,15 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
+        <div class="row mt-3 mx-0 articolo">
+          <div clas="col-xs-12 col-sm-5">
+            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
+          </div>
+          <div class="col-xs-12 col-sm-7">
+            <h1 class="display-4">Article title</h1>
+            <p class="lead">The subtitle of the article.</p>
+            <a class="float-right link" href="#">Read more >></a>
+          </div>
       </div>
       <div class="col-sm-2"></div>
     </div>
