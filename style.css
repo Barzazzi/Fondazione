@@ -26,7 +26,7 @@ ul.navbar-nav a:hover {
     background-color: rgb(230, 228, 228); 
 }
 
-a:hover { 
+a.link a:hover { 
     color: rgb(2, 177, 31) !important; 
 }
 
@@ -43,32 +43,30 @@ a:hover {
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
-  }
-  .fa-facebook {
+}
+.fa-facebook {
     background: #3B5998;
     color: white;
-  }
-  .fa-twitter {
+}
+.fa-twitter {
     background: #55ACEE;
     color: white;
-  }
-  .fa-google {
+}
+.fa-google {
     background: #dd4b39;
     color: white;
-  }
+}
 /*footer*/
-  .footer{
-     margin-top: 80px;
-     background-color:#b8b894;
-  }
-  .sponsor{
-      padding: 20px;
-      text-align: center;
-  }
-  .info{
-      margin-top: 40px;
-      background-color: #93936c;
-      text-align: center;
-      padding: 5px;
-      
-  }
+.footer{
+    background-color:rgb(180, 179, 179);
+}
+.sponsor{
+    text-align: center;
+}
+.info{
+    background-color: rgb(168, 166, 166);
+    text-align: center;
+}
+.legal{
+    color:black !important;
+}
