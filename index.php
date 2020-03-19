@@ -60,24 +60,27 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="chemistry.jpg" alt="First slide">
+              <img class="d-block" src="articolo1.png" alt="First slide" width="1132 px" height="540 px" >
               <div class="carousel-caption d-none d-md-block">
-                <h5>Title 1</h5>
-                <p>Subtitle 1</p>
+                <h5>Call for IUPAC Postgraduate Summer School on Green Chemistry</h5>
+                <p>This Summer School will ideally follow the 10 previous editions held in Venice from 1998 to 2008, but this will be the first one under the International Union of Pure and Applied Chemistry IUPAC sponsorship.</p>
+                <a class="text-white" href="articolo1.php">Read more >></a>
               </div>
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="chemistry.jpg" alt="Second slide">
+              <img class="d-block" src="chemistry.jpg" alt="Second slide" width="1132 px" height="540 px">
               <div class="carousel-caption d-none d-md-block">
                 <h5>Title 2</h5>
                 <p>Subtitle 2</p>
+                <a class="text-white" href="articolo1.php">Read more >></a>
               </div>
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="chemistry.jpg" alt="Third slide">
+              <img class="d-block" src="chemistry.jpg" alt="Third slide" width="1132 px" height="540 px">
               <div class="carousel-caption d-none d-md-block">
                 <h5>Title 3</h5>
                 <p>Subtitle 3</p>
+                <a class="text-white" href="articolo1.php">Read more >></a>
               </div>
             </div>
           </div>
@@ -92,12 +95,12 @@
         </div>
         <div class="row mt-3 mx-0 articolo">
           <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
+            <img src="articolo1.png" class="mr-3" height="215 px" width="360 px">
           </div>
           <div class="col-xs-12 col-sm-7 pt-1">
             <h3>Call for IUPAC Postgraduate Summer School on Green Chemistry</h3>
             <p class="lead"><small>This Summer School will ideally follow the 10 previous editions held in Venice from 1998 to 2008, but this will be the first one under the International Union of Pure and Applied Chemistry IUPAC sponsorship.</small></p>
-            <a class="float-right link" href="#">Read more >></a>
+            <a class="float-right link" href="article.php">Read more >></a>
           </div>
         </div>
         <div class="row mt-3 mx-0 articolo">
@@ -129,19 +132,19 @@
           <div class="row mx-0 px-0">
             <div class="col-4 col-md-4">
               <div class="text-center">
-                <h5>Sponsor by</h5>
+                <h5>Sponsor</h5>
                 <img width="200" hight="200" src="sponsor.png">
               </div>
             </div>
             <div class="col-4 col-md-4">
               <div class="text-center">
-                <h5>Sponsor by</h5>
+                <h5>Partner</h5>
                 <img width="200" hight="200" src="sponsor.png">
               </div>
             </div>
             <div class="col-4 col-md-4">
               <div class="text-center">
-                <h5>Sponsor by</h5>
+                <h5>Academic parter</h5>
                 <img class="mb-10" width="200" hight="200" src="sponsor.png">
               </div>
             </div>
