@@ -7,7 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <?php require "link.php" ?>
-    <title>Index</title>
+    
+    <title>Home Page</title>
   </head>
   <body class="sfondo">
     <header class="sfondo-logo">
