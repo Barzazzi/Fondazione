@@ -5,11 +5,21 @@
 
 
 ul.navbar-nav a:hover { 
-    color: rgb(2, 177, 31) !important; 
+    color: rgb(124, 193, 35) !important; 
 }
 
 .titolo{
-    color: rgb(2, 177, 31) !important;
+    color: rgb(124, 193, 35) !important;
+}
+
+.btn-outline-success{
+    color: rgb(124, 193, 35) !important;
+    border-color: rgb(124, 193, 35) !important;
+}
+.btn-outline-success:hover{
+    color: white !important;
+    border-color: rgb(124, 193, 35) !important;
+    background-color: rgb(124, 193, 35) !important;
 }
 
 /*body*/
@@ -24,7 +34,7 @@ ul.navbar-nav a:hover {
 }
 
 .sfondo-carosello{
-    background-color: rgba(2, 177, 31, 0.301);
+    background-color: rgba(124, 193, 35, 0.301);
     
 }
     
@@ -38,16 +48,16 @@ ul.navbar-nav a:hover {
     color:black !important;
 }
 a.link:hover{ 
-    color: rgb(2, 177, 31) !important; 
+    color: rgb(124, 193, 35) !important; 
 }
 
 /* pagination */
 .page-link{
-    color: rgb(2, 177, 31) !important; 
+    color: rgb(124, 193, 35) !important; 
 }
 
 .page-link.active{
-    background-color: rgb(2, 177, 31) !important; 
+    background-color: rgb(124, 193, 35) !important; 
     color:white !important;
 }
 /*Share button*/
