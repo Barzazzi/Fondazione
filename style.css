@@ -91,16 +91,4 @@ a.link:hover{
     color:black !important;
 }
 
-/* Media query*/
-@media screen and (min-width: 565px){
-    .logo{
-        width: 100% !important;
-        height: auto;
-    }
-}
-@media screen and (max-width: 565px){
-    .logo{
-        width: 80% !important;
-        height: auto;
-    }
-}
+
