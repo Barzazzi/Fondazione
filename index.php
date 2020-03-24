@@ -17,7 +17,7 @@
       <div class="row mx-0 px-0">
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
-          <img src="LOGO.gif">
+          <img src="LOGO.gif" class="logo">
         </div>
         <div class="col-sm-2"></div>
         <div class="col-sm-2"></div>
