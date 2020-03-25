@@ -8,7 +8,7 @@
 <div class="row mx-0 px-0">
     <div class="col-xl-2 col-lg-1 col-0"></div>
     <div class="col-xl-8 col-lg-10 col-12">
-        <img src="Logo.gif" class="img-responsive">
+        <img src="Logo.gif" class="img-fluid">
     </div>
     <div class="col-xl-2 col-lg-1 col-0"></div>
     <div class="col-xl-2 col-lg-1 col-0"></div>
