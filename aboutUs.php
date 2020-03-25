@@ -35,7 +35,7 @@
           <div class="col-xs-12 col-sm-7 pt-3">
             <h3>Goals</h3>
             <p class="lead"><small>What are the goals of the foundation.</small></p>
-            <a class="float-right link" href="foundation.php">Read more >></a>
+            <a class="float-right link" href="goals.php">Read more >></a>
           </div>
         </div>
         <div class="row mt-3 mx-0 articolo">
@@ -45,7 +45,7 @@
           <div class="col-xs-12 col-sm-7 pt-3">
             <h3>Activity</h3>
             <p class="lead"><small>Which activity the foundation does.</small></p>
-            <a class="float-right link" href="productsProcess.php">Read more >></a>
+            <a class="float-right link" href="activity.php">Read more >></a>
           </div>
         </div>
       </div>
