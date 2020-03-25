@@ -18,7 +18,6 @@
       <div class="col-lg-8 col-sm-10 pt-2">
         <a href="index.php" class="link"><ion-icon name="caret-back-outline"></ion-icon>Back</a>
         <div id="contact" class="container-fluid bg-grey">
-        <h2 class="blog-post-title">Green sciences for sustainable developement foundation</h2>
         <h2 class="">CONTACTS</h2>
         <div class="row">
             <div class="col-sm-5">
@@ -43,11 +42,16 @@
                 <p><ion-icon name="call-outline"></ion-icon>&nbsp&nbsp&nbsp +39 340 3334444</p>
                 <ion-icon name="mail-outline"></ion-icon>&nbsp&nbsp&nbsp <a href="mailto:pietrotundo45@gmail.com" class="">pietrotundo45@gmail.com</a>
             </div>
-        </div>    
+        
+        </div>   
+        </div>
         </div>
       <div class="col-lg-2 col-sm-1"></div>
+    </div>
     
+    <footer class="footer mt-3">
       <?php require "footer.php" ?>
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <?php require "script.php" ?>
