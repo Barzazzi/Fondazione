@@ -6,13 +6,13 @@
     }
 ?>
 <div class="row mx-0 px-0">
-    <div class="col-sm-2"></div>
-    <div class="col-sm-8">
-        <img src="Logo.gif" class="img-responsive">
+    <div class="col-xl-2 col-lg-1 col-0"></div>
+    <div class="col-xl-8 col-lg-10 col-12">
+        <img src="Logo.gif" class="img-fluid">
     </div>
-    <div class="col-sm-2"></div>
-    <div class="col-sm-2"></div>
-    <div class="col-sm-8 px-0">
+    <div class="col-xl-2 col-lg-1 col-0"></div>
+    <div class="col-xl-2 col-lg-1 col-0"></div>
+    <div class="col-xl-8 col-lg-10 col-12 px-0">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -32,7 +32,7 @@
                 <a class="nav-link mx-lg-2" href="aboutUs.php">About Us</a>
             </li>
             <li class="nav-item active border-right">
-                <a class="nav-link mx-lg-2" href="#">Contacts</a>
+                <a class="nav-link mx-lg-2" href="contactUs.php">Contacts</a>
             </li>
             </ul>
             <form class="form-inline">
@@ -42,5 +42,5 @@
         </div>
         </nav>
     </div>
-    <div class="col-sm-2"></div>
+    <div class="col-xl-2 col-lg-1 col-0"></div>
 </div>

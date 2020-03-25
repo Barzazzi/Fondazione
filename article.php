@@ -54,6 +54,9 @@
       </div>
       <div class="col-lg-2 col-sm-1"></div>
     </div>
+    <footer class="footer mt-3">
+      <?php require "footer.php" ?>
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <?php require "script.php" ?>
