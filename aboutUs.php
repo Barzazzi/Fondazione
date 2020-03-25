@@ -52,40 +52,7 @@
       <div class="col-sm-2"></div>
     </div>
     <footer class="footer mt-3">
-      <div class="sponsor pt-3">
-        <div class="container">
-          <div class="row mx-0 px-0">
-            <div class="col-4 col-md-4">
-              <div class="text-center">
-                <h5>Sponsor</h5>
-                <img width="200" hight="200" src="sponsor.png">
-              </div>
-            </div>
-            <div class="col-4 col-md-4">
-              <div class="text-center">
-                <h5>Partner</h5>
-                <img width="200" hight="200" src="sponsor.png">
-              </div>
-            </div>
-            <div class="col-4 col-md-4">
-              <div class="text-center">
-                <h5>Academic parter</h5>
-                <img class="mb-10" width="200" hight="200" src="sponsor.png">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="info mt-3 p-0 pt-3">
-        <div class="row mx-0 px-0">
-          <div class="col-7">
-            <p>Foundation Green Sciences for Sustenaible Development</p>
-          </div>
-          <div class="col-5">
-            <a class="legal" href="https://it.wikipedia.org/wiki/Legale">Legal notes</a>
-          </div>
-        </div>
-      </div>
+      <?php require "footer.php" ?>
     </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
