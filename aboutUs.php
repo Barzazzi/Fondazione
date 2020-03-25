@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <?php require "link.php" ?>
     
-    <title>Home Page</title>
+    <title>About Us</title>
   </head>
   <body class="sfondo">
     <header class="sfondo-logo">
@@ -17,23 +17,24 @@
     <div class="row mx-0 px-0">
       <div class="col-sm-2"></div>
       <div class="col-sm-8 pt-2">
+        <a href="index.php" class="link"><ion-icon name="caret-back-outline"></ion-icon>Back</a>
         <div class="row mt-3 mx-0 articolo">
           <div clas="col-xs-12 col-sm-5">
             <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7 pt-1">
-            <h3>Ma man P Tundo profile</h3>
-            <p class="lead"><small>Full Professor of Organic Chemistry (retired in 2016), Pietro Tundo is a scientist with a high international profile who has made substantial improvement in a number of fields of chemistry.</small></p>
-            <a class="float-right link" href="aboutTundo.php">Read more >></a>
+          <div class="col-xs-12 col-sm-7 pt-3">
+            <h3>Founders and Honorary Founders</h3>
+            <p class="lead"><small>The list of founders and honorary founders.</small></p>
+            <a class="float-right link" href="founders.php">Read more >></a>
           </div>
         </div>
         <div class="row mt-3 mx-0 articolo">
           <div clas="col-xs-12 col-sm-5">
             <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Foundation</h3>
-            <p class="lead"><small>Pietro Tundo’s company Greenovator is specializing in providing services in organic chemistry and, in particular, in green chemistry at national and international level.</small></p>
+          <div class="col-xs-12 col-sm-7 pt-3">
+            <h3>Goals</h3>
+            <p class="lead"><small>What are the goals of the foundation.</small></p>
             <a class="float-right link" href="foundation.php">Read more >></a>
           </div>
         </div>
@@ -41,9 +42,9 @@
           <div clas="col-xs-12 col-sm-5">
             <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Products and process</h3>
-            <p class="lead"><small>What to use and how to use the green technologies.</small></p>
+          <div class="col-xs-12 col-sm-7 pt-3">
+            <h3>Activity</h3>
+            <p class="lead"><small>Which activity the foundation does.</small></p>
             <a class="float-right link" href="productsProcess.php">Read more >></a>
           </div>
         </div>
