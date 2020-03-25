@@ -8,23 +8,17 @@
 <div class="sponsor pt-3">
     <div class="container">
         <div class="row mx-0 px-0">
-            <div class="col-4 col-md-4">
-                <div class="text-center">
+            <div class="col-4 text-center">
                 <h5>Sponsor</h5>
                 <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
-                </div>
             </div>
-            <div class="col-4 col-md-4">
-                <div class="text-center">
-                    <h5>Partner</h5>
-                    <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
-                </div>
+            <div class="col-4 text-center">
+                <h5>Partner</h5>
+                <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
             </div>
-            <div class="col-4 col-md-4">
-                <div class="text-center">
-                    <h5>Academic partner</h5>
-                    <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
-                </div>
+            <div class="col-4 text-center">
+                <h5>Academic partner</h5>
+                <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
             </div>
         </div>
     </div>

@@ -101,3 +101,13 @@ a.link:hover{
     color:black !important;
 }
 
+@media only screen and (max-width: 1024px) {
+
+    .articolo h3 { 
+       font-size: 100% !important; 
+    }
+    .articolo p { 
+        font-size: 100% !important; 
+     }
+ 
+ }

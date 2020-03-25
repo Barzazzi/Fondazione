@@ -14,7 +14,7 @@
     <header class="sfondo-logo">
       <?php require "header.php" ?>
     </header>
-    <div class="row mx-0 px-0">
+    <div class="row mx-0 px-0 mt-3">
       <div class="col-xl-2 col-lg-1 col-0"></div>
       <div class="col-xl-8 col-lg-10 col-12">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -63,31 +63,31 @@
           </a>
         </div>
         <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="articolo1.png" class="mr-3 img-fluid" height="215 px" width="360 px">
+          <div clas="col-sm-5 col-12">
+            <img src="articolo1.png" class="img-fluid" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7 pt-1">
+          <div class="col-xl-7 col-sm-6 col-xs-12 pt-1 mx-0">
             <h3>Call for IUPAC Postgraduate Summer School on Green Chemistry</h3>
             <p class="lead"><small>This Summer School will ideally follow the 10 previous editions held in Venice from 1998 to 2008, but this will be the first one under the International Union of Pure and Applied Chemistry IUPAC sponsorship.</small></p>
             <a class="float-right link" href="article.php">Read more >></a>
           </div>
         </div>
         <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
+          <div clas="col-sm-6 col-12">
             <img src="placeholder.png" class="mr-3 img-fluid" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7">
-            <h1 class="display-4">Article title</h1>
+          <div class="col-xl-7 col-sm-6 col-xs-12 pt-1 mx-0">
+            <h3>Article title</h3>
             <p class="lead">The subtitle of the article.</p>
             <a class="float-right link" href="#">Read more >></a>
           </div>
         </div>
         <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
+          <div clas="col-sm-6 col-12 ">
             <img src="placeholder.png" class="mr-3 img-fluid" height="215 px" width="360 px">
           </div>
-          <div class="col-xs-12 col-sm-7">
-            <h1 class="display-4">Article title</h1>
+          <div class=" col-xl-7 col-sm-6 col-xs-12 pt-1 mx-0">
+            <h3>Article title</h3>
             <p class="lead">The subtitle of the article.</p>
             <a class="float-right link" href="#">Read more >></a>
           </div>
