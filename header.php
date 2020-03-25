@@ -29,7 +29,7 @@
                 <a class="nav-link mx-lg-2" href="#">Collaboration</a>
             </li>
             <li class="nav-item active border-right">
-                <a class="nav-link mx-lg-2" href="#">About Us</a>
+                <a class="nav-link mx-lg-2" href="aboutUs.php">About Us</a>
             </li>
             <li class="nav-item active border-right">
                 <a class="nav-link mx-lg-2" href="#">Contacts</a>
