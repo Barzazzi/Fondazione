@@ -17,36 +17,13 @@
     <div class="row mx-0 px-0">
       <div class="col-sm-2"></div>
       <div class="col-sm-8 pt-2">
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7 pt-1">
-            <h3>Ma man P Tundo profile</h3>
-            <p class="lead"><small>Full Professor of Organic Chemistry (retired in 2016), Pietro Tundo is a scientist with a high international profile who has made substantial improvement in a number of fields of chemistry.</small></p>
-            <a class="float-right link" href="aboutTundo.php">Read more >></a>
-          </div>
-        </div>
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Foundation</h3>
-            <p class="lead"><small>Pietro Tundo’s company Greenovator is specializing in providing services in organic chemistry and, in particular, in green chemistry at national and international level.</small></p>
-            <a class="float-right link" href="foundation.php">Read more >></a>
-          </div>
-        </div>
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Products and process</h3>
-            <p class="lead"><small>What to use and how to use the green technologies.</small></p>
-            <a class="float-right link" href="productsProcess.php">Read more >></a>
-          </div>
-        </div>
+      <h3>Foundation</h3>
+      <img src="placeholder.png" class="mr-3" height="360 px" width="360 px" alt="Responsive image">
+      <p>Pietro Tundo’s company Greenovator is specializing in providing services in organic chemistry and, in particular, in green chemistry at national and international level.<br>
+        With regard to green products and green processes, Greenovator assists companies in the Veneto region in carrying out pure and applied research, in developing innovative green technologies, looking for partners and contacts with international industries and academies. The expertise ranges from providing information to the full support for the co-production of chemicals.<br>
+        The research group has become a world leader in the green chemistry field for the discovering of new reactions and  processes and also for its important international contacts.<br>
+        Tundo introduced green chemistry for the first time at Ca’ Foscari University through the innovative development of organic carbonate chemistry and its industrial applications. Many young researchers began their academic careers in this sector under the guidance of Pietro Tundo.</p>
+        <a class="float-right link" href="statutes.php">Statute of the Foundation</a>
       </div>
       <div class="col-sm-2"></div>
     </div>

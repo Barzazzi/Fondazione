@@ -17,36 +17,18 @@
     <div class="row mx-0 px-0">
       <div class="col-sm-2"></div>
       <div class="col-sm-8 pt-2">
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7 pt-1">
-            <h3>Ma man P Tundo profile</h3>
-            <p class="lead"><small>Full Professor of Organic Chemistry (retired in 2016), Pietro Tundo is a scientist with a high international profile who has made substantial improvement in a number of fields of chemistry.</small></p>
-            <a class="float-right link" href="aboutTundo.php">Read more >></a>
-          </div>
-        </div>
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Foundation</h3>
-            <p class="lead"><small>Pietro Tundo’s company Greenovator is specializing in providing services in organic chemistry and, in particular, in green chemistry at national and international level.</small></p>
-            <a class="float-right link" href="foundation.php">Read more >></a>
-          </div>
-        </div>
-        <div class="row mt-3 mx-0 articolo">
-          <div clas="col-xs-12 col-sm-5">
-            <img src="placeholder.png" class="mr-3" height="215 px" width="360 px">
-          </div>
-          <div class="col-xs-12 col-sm-7">
-            <h3>Products and process</h3>
-            <p class="lead"><small>What to use and how to use the green technologies.</small></p>
-            <a class="float-right link" href="productsProcess.php">Read more >></a>
-          </div>
-        </div>
+      <h3>Green products and processes</h3>
+      <img src="placeholder.png" class="mr-3" height="360 px" width="360 px" alt="Responsive image">
+      <p>Utilization of alkyl carbonates and especially dimethyl carbonate as reagents, solvents and additives having done the highest number of scientific publications on the argument
+        Phase-transfer catalysis<br>
+        Gas- liquid-phase transfer catalysis (Gl Ptc)<br>
+        Continuous flow processes in organic chemistry<br>
+        Multiphase processes<br>
+        Natural feedstock exploitation<br>
+        Solvent change in chemical manufactures<br>
+        Polymers<br>
+        Artificial photosynthesis<br>
+        Metrics on green chemistry</p>
       </div>
       <div class="col-sm-2"></div>
     </div>
