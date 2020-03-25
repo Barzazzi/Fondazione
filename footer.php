@@ -22,7 +22,7 @@
             </div>
             <div class="col-4 col-md-4">
                 <div class="text-center">
-                    <h5>Academic parter</h5>
+                    <h5>Academic partner</h5>
                     <img class="mb-10 img-fluid" width="200" hight="200" src="sponsor.png">
                 </div>
             </div>
@@ -32,7 +32,7 @@
 <div class="info mt-3 p-0 pt-3">
     <div class="row mx-0 px-0">
         <div class="col-7">
-            <p>Green Sciences for Sustenaible Development Foundation</p>
+            <p>Green Sciences for Sustainable Development Foundation</p>
         </div>
         <div class="col-5">
             <a class="legal" href="https://it.wikipedia.org/wiki/Legale">Legal notes</a>
