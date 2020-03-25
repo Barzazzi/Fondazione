@@ -23,7 +23,7 @@
                 <a class="nav-link mr-lg-2" href="index.php" >Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active border-right">
-                <a class="nav-link mx-lg-2" href="#" >Project</a>
+                <a class="nav-link mx-lg-2" href="#" >What We Do</a>
             </li>
             <li class="nav-item active border-right">
                 <a class="nav-link mx-lg-2" href="#">Collaboration</a>
